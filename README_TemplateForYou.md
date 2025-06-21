@@ -210,7 +210,7 @@ The `test_algorithm.py` file includes various test cases designed to cover diffe
 
 ## Live Demo
 
-A live demo of this application is available at: [Insert Streamlit Cloud URL here]
+A live demo of this application is available at: [(https://kruskalgorithm.streamlit.app/)]
 
 ## Limitations and Future Improvements
 
